@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">Addlas</string>
+
+    <string name="hello_world">Hello world!</string>
+
+    <!-- Menu Strings -->
+    <string name="action_settings">Settings</string>
+    <string name="action_logout">Log Out</string>
+    <string name="action_change_password">Change Password</string>
+
+
+    <!-- Reset Password Strings -->
+    <string name="btn_to_reset_pass">Reset Password Now</string>
+    <string name="btn_to_cancel">Cancel</string>
+
+    <!-- Change Password Strings -->
+    <string name="btn_to_change_pass">Change Password Now</string>
+    <string name="hint_new_password">New Password</string>
+
+    <!-- Ir Transmit Calibration Strings -->
+    <string name="time_between_ir_transmit">Time Between Channel Number:</string>
+    <string name="delay_ir_send">Delay IR send:</string>
+    <string name="test_ir_calibration_btn">Calibrate Channel Change</string>
+
+
+    <string name="send">SEND</string>
+    <string name="action_send">Send</string>
+    <string name="prompt_message">Message</string>
+    <string name="action_attach">ATTACH</string>
+    <string name="action_capture">CAPTURE IMAGE</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+
+
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+
+    <!-- Activity Title Labels -->
+    <string name="title_activity_configuration">ConfigurationActivity</string>
+    <string name="title_activity_device_selection">DeviceSelection</string>
+    <string name="title_activity_registration">Registration</string>
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_change_password">Change Password</string>
+    <string name="title_activity_forgot_password">Forgot Password</string>
+    <string name="title_activity_shows">Shows</string>
+    <string name="title_activity_ir_calibration">Calibrate IR</string>
+
+    <!-- Activity Title Labels -->
+    <string name="remote_test_dialog">Test Selected Remote</string>
+
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_repeat_password">Repeat Password</string>
+    <string name="hint_firstname">First Name</string>
+    <string name="hint_lastname">Last Name</string>
+    <string name="hint_name">Fullname</string>
+    <string name="btn_signin">Sign In</string>
+    <string name="btn_register">REGISTER</string>
+    <string name="btn_link_to_register">REGISTER</string>
+    <string name="btn_link_to_login">Already registred!</string>
+    <string name="welcome">Welcome</string>
+    <string name="btn_logout">LOGOUT</string>
+    <string name="name">Fullname</string>
+    <string name="btn_to_launchresetpass">Reset Password</string>
+
+
+</resources>
